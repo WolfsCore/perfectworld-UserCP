@@ -1,6 +1,12 @@
-# User Control Panel (UCP) - Complete Multi-Language Game Server Management System
+# User Control Panel (UCP) - Complete Multi-Language Game Server Management System WIP
 
 A modern, secure, and multilingual User Control Panel for game servers featuring a dark theme, reCAPTCHA v3 integration, and email activation.
+
+NOTE THIS IS NOT FOR THE NORMAL LEAKED SERVERS BUT U CAN MODIFI IT
+
+# New Server ill relesed soon 
+
+https://dev.drenor.de/info.html
 
 ## 🌟 Main Features
 
