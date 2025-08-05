@@ -64,7 +64,7 @@ https://dev.drenor.de/info.html
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourrepository/ucp.git
+https://github.com/WolfsCore/perfectworld-UserCP.git
 cd ucp
 ```
 
